@@ -1,0 +1,32 @@
+[33mcommit 06c4a8fe044b4ac54607cb42cce3505461fbf56c[m
+Author: Shouaib Hashemi <Shouaib Hashemi>
+Date:   Fri Sep 23 12:14:53 2016 +0300
+
+    HelloWorld file edited
+
+[33mcommit d2026d7d7167ba84613ad89491a755ed879cf345[m
+Author: Shouaib Hashemi <Shouaib Hashemi>
+Date:   Fri Sep 23 11:26:05 2016 +0300
+
+    HelloWorld file created
+
+[33mcommit 826a3492985f549c5a1c63bbeb47db2f30754ccc[m
+Merge: 9f7fbf5 1312a7a
+Author: shouaibhashemi <shouaib.hashemi@gmail.com>
+Date:   Mon Sep 19 11:05:49 2016 +0300
+
+    Merge pull request #1 from shouaibhashemi/readme-edits
+    
+    Update README.md
+
+[33mcommit 1312a7aad60710d985ba0d3080a3faf4f229e287[m
+Author: shouaibhashemi <shouaib.hashemi@gmail.com>
+Date:   Sun Sep 18 18:30:14 2016 +0300
+
+    Update README.md
+
+[33mcommit 9f7fbf580ff962dd073e66a3295a08a561d48fcc[m
+Author: shouaibhashemi <shouaib.hashemi@gmail.com>
+Date:   Sun Sep 18 17:57:59 2016 +0300
+
+    Initial commit
